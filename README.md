@@ -4,13 +4,16 @@ Welcome to my profile!
 
 Here is what I'm working on:
 
-. A personal website
-. Learning new programming languages
-. Video game dev
+◼ A personal website
+
+◼ Learning new programming languages
+
+◼ Video game dev
 
 How to reach me: 23leap23@gmail.com
 
-Pronouns:  She/Her and They/Them
+Pronouns: She/Her and They/Them
+
 
 
 
