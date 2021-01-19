@@ -12,6 +12,8 @@ Here is what I'm working on:
 
 How to reach me: 23leap23@gmail.com
 
+Find me on Codepen: https://codepen.io/bryn-trys
+
 Pronouns: She/Her and They/Them
 
 
