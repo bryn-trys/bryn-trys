@@ -4,11 +4,11 @@ Welcome to my profile!
 
 Here is what I'm working on:
 
-▪ A personal website
+. A personal website
 
-▪ Learning new programming languages
+. Learning new programming languages
 
-▪ Video game development
+. Video game development
 
 How to reach me: 23leap23@gmail.com
 
