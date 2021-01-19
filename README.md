@@ -1,14 +1,14 @@
-### Hi there, my name is Bryn
+###  Hi there, my name is Bryn 
 
 Welcome to my profile!
 
 Here is what I'm working on:
 
-◼ A personal website
+▪ A personal website
 
-◼ Learning new programming languages
+▪ Learning new programming languages
 
-◼ Video game dev
+▪ Video game dev
 
 How to reach me: 23leap23@gmail.com
 
