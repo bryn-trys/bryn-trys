@@ -1,4 +1,4 @@
-### ✨ Hi there, my name is Bryn ✨
+### ✨ Hi there, my name is Forest ✨
 
 Welcome to my profile!
 
