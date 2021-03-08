@@ -4,11 +4,9 @@ Welcome to my profile!
 
 Here is what I'm working on:
 
-. A personal website
+. Developing the OurVerse browser game
 
 . Learning new programming languages
-
-. Video game development
 
 . A graphic novel
 
