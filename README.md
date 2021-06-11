@@ -1,4 +1,4 @@
-### ✨ Hi there, my name is Astrid✨
+### ✨ Hi there, my name is Raven✨
 
 Welcome to my profile!
 
