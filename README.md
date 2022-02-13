@@ -8,6 +8,6 @@ Here is what I'm working on:
 
 . Learning New Programming Languages
 
-. Expanding My Horizons and Building My Knowledge 
+. Creating a new website for PYCS
 
 ![Bryn's github stats](https://github-readme-stats.vercel.app/api?username=bryn-trys&show_icons=true&theme=merko)
